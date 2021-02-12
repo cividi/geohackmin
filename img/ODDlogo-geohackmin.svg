@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="240"
+   height="180"
+   id="logoContainer"
+   transform="translate(0, 0)"
+   version="1.1"
+   sodipodi:docname="ODDlogo-geohackmin.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:export-filename="D:\Downloads\ODDlogo-geohackmin.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata37">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs35" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1415"
+     inkscape:window-height="840"
+     id="namedview33"
+     showgrid="false"
+     inkscape:zoom="1.2137955"
+     inkscape:cx="104.96139"
+     inkscape:cy="121.85377"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g30"
+     inkscape:document-rotation="0" />
+  <g
+     transform="translate(0,0)"
+     width="240"
+     height="180"
+     id="g30">
+    <g
+       opacity="1.0"
+       id="g6">
+      <text
+         class="oddtext"
+         fill="#333333"
+         font-family="Noto Sans"
+         font-size="10px"
+         font-weight="bold"
+         text-anchor="middle"
+         y="150"
+         x="120"
+         id="text2">Open Data Day</text>
+      <text
+         class="label"
+         fill="#333333"
+         font-family="'Noto Sans'"
+         font-size="16px"
+         font-weight="bold"
+         text-anchor="middle"
+         y="170"
+         x="120"
+         id="text4">Switzerland</text>
+    </g>
+    <g
+       opacity="1.0"
+       id="g10"
+       inkscape:export-xdpi="311.24515"
+       inkscape:export-ydpi="311.24515">
+      <path
+         class="dataLines"
+         stroke="#999999"
+         fill="none"
+         stroke-width="2"
+         d="M70,54.44444444444444L120,72.22222222222223L165,81.11111111111111"
+         id="path8" />
+    </g>
+    <g
+       opacity="1.0"
+       id="g16"
+       inkscape:export-xdpi="311.24515"
+       inkscape:export-ydpi="311.24515">
+      <circle
+         class="circleL"
+         cx="70"
+         cy="54.44444444444444"
+         fill="none"
+         stroke-width="6"
+         stroke="#ff0040"
+         r="30"
+         id="circle12"
+         style="stroke:#ff0000;stroke-opacity:1" />
+      <circle
+         class="circleS"
+         cx="70"
+         cy="54.44444444444444"
+         fill="#ff0040"
+         r="4"
+         id="circle14"
+         style="fill:#ff0000;fill-opacity:1" />
+    </g>
+    <g
+       opacity="1.0"
+       id="g22"
+       inkscape:export-xdpi="311.24515"
+       inkscape:export-ydpi="311.24515">
+      <path
+         class="circleL"
+         transform="translate(125,72.22222137451172),rotate(90)"
+         fill="none"
+         stroke-width="6"
+         stroke="#0080ff"
+         d="M0,-16.414326840349723L18.953632039684823,16.414326840349723 -18.953632039684823,16.414326840349723Z"
+         id="path18"
+         style="stroke:#4d4d4d;stroke-opacity:1" />
+      <circle
+         class="circleS"
+         cx="120"
+         cy="72.22222222222223"
+         fill="#0080ff"
+         r="4"
+         id="circle20"
+         style="fill:#4d4d4d;fill-opacity:1" />
+    </g>
+    <g
+       opacity="1.0"
+       id="g28"
+       inkscape:export-xdpi="311.24515"
+       inkscape:export-ydpi="311.24515">
+      <path
+         class="circleL"
+         transform="translate(170,81.11111450195312),rotate(90)"
+         fill="none"
+         stroke-width="6"
+         stroke="#ff00bf"
+         d="M0,-18.612097182041992L21.49139863647084,18.612097182041992 -21.49139863647084,18.612097182041992Z"
+         id="path24"
+         style="stroke:#543076;stroke-opacity:1" />
+      <circle
+         class="circleS"
+         cx="165"
+         cy="81.11111111111111"
+         fill="#ff00bf"
+         r="4"
+         id="circle26"
+         style="fill:#543076;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
