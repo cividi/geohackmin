@@ -1,0 +1,31 @@
+/* --- Stylesheet for #geohackmin dribdat event platform --- */
+
+/* Event details */
+.event-resources table td { border-bottom: 1px solid #333; padding: 0.5em; min-width: 5em; }
+.event-resources table thead { border-bottom: 2px solid black; }
+.event-resources img { max-width: 100%; }
+.event-resources > p,
+.project-info p { margin: 2em 0; font-size: 125%; line-height: 140%; }
+.resource-card, .profile-projects .card { background: white; }
+
+/* Translate widget */
+#google_translate_element { position: absolute; top: 3px; right: 5px; }
+
+/* Dark mode tweaks */
+body { background: #315; color: white; }
+.section-header .event-date,
+.userform form .help-inline, .projectform form .help-inline,
+.navbar-light .navbar-nav .nav-link { color: lightgray; }
+.jumbotron h1, .jumbotron h2, .jumbotron h3, .jumbotron h4, .jumbotron h5, .jumbotron h6,
+.jumbotron, .jumbotron.home-page { background: white; color: black; }
+.community-embed { 
+    background: rgba(255,255,255,0.8);  
+    color: black;  
+    padding: 1em 2em; 
+}
+.btn-group.project-edit-buttons {
+    box-shadow: 3px 3px 3px rgba(255, 255, 255, 0.5);
+    background: white;
+    border-radius: 5px;
+    margin-bottom: 11px;
+}
