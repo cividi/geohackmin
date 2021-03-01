@@ -1,12 +1,30 @@
 /* --- Stylesheet for #geohackmin dribdat event platform --- */
 
+/* Event branding */
+.navbar-brand::after {
+    content: "Geo.Hackmin 2021";
+    margin: 0 0.5em;
+    font-family: monospace;
+    text-shadow: 1px 1px 1px greenyellow;
+}
+.navbar-brand:hover::after {
+    text-shadow: 1px 1px 1px lightblue;
+}
+
+/* Tweak mini schedule */
+table.schedule {
+     text-align:left; color:#333; margin-top: 1em; font-size: 110%;
+}
+table.schedule td { padding: 1em; }
+table.schedule thead { border-bottom:2px solid black; }
+
 /* Event details */
 .event-resources table td { border-bottom: 1px solid #333; padding: 0.5em; min-width: 5em; }
 .event-resources table thead { border-bottom: 2px solid black; }
 .event-resources img { max-width: 100%; }
 .event-resources > p,
 .project-info p { margin: 2em 0; font-size: 125%; line-height: 140%; }
-.resource-card, .profile-projects .card { background: white; }
+.resource-card, .resource-card:hover, .profile-projects .card { background: white; }
 
 /* Translate widget */
 #google_translate_element { position: absolute; top: 3px; right: 5px; }
@@ -29,3 +47,4 @@ body { background: #315; color: white; }
     border-radius: 5px;
     margin-bottom: 11px;
 }
+
