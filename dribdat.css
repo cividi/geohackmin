@@ -34,8 +34,7 @@ body { background: #315; color: white; }
 .section-header .event-date,
 .userform form .help-inline, .projectform form .help-inline,
 .navbar-light .navbar-nav .nav-link { color: lightgray; }
-.jumbotron h1, .jumbotron h2, .jumbotron h3, .jumbotron h4, .jumbotron h5, .jumbotron h6,
-.jumbotron, .jumbotron.home-page { background: white; color: black; }
+.project-page.jumbotron, .jumbotron.home-page { background: white; color: black; }
 .community-embed { 
     background: rgba(255,255,255,0.8);  
     color: black;  
