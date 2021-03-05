@@ -25,6 +25,9 @@ table.schedule thead { border-bottom:2px solid black; }
 .event-resources > p,
 .project-info p { margin: 2em 0; font-size: 125%; line-height: 140%; }
 .resource-card, .resource-card:hover, .profile-projects .card { background: white; }
+.resources-page .step.active .title {
+    color: lightgreen;
+}
 
 /* Translate widget */
 #google_translate_element { position: absolute; top: 3px; right: 5px; }
@@ -34,12 +37,19 @@ body { background: #315; color: white; }
 .section-header .event-date,
 .userform form .help-inline, .projectform form .help-inline,
 .navbar-light .navbar-nav .nav-link { color: lightgray; }
+
+.project-page .project-autotext * { color: black; }
+.project-page .project-info a { text-decoration: none; }
+
 .project-page .project-name > *,
+.project-page.jumbotron h1, .project-page.jumbotron h2, .project-page.jumbotron h3,
+.project-page.jumbotron h4, .project-page.jumbotron h5, .project-page.jumbotron h6,
 .project-page.jumbotron, .jumbotron.home-page { background: white; color: black; }
-.community-embed { 
-    background: rgba(255,255,255,0.8);  
-    color: black;  
-    padding: 1em 2em; 
+
+.community-embed {
+    background: rgba(255,255,255,0.8);
+    color: black;
+    padding: 1em 2em;
 }
 .btn-group.project-edit-buttons {
     box-shadow: 3px 3px 3px rgba(255, 255, 255, 0.5);
@@ -48,3 +58,10 @@ body { background: #315; color: white; }
     margin-bottom: 11px;
 }
 
+.timeline-item .timeline-img-header { background: white; }
+.timeline-img-header h2 {
+    display: inline-block;
+    background: cornflowerblue;
+    color: white;
+    padding: 6px;
+}
