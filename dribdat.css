@@ -40,7 +40,7 @@ body { background: #315; color: white; }
 
 .project-page .project-autotext * { color: black; }
 .project-page .project-info a { text-decoration: none; }
-
+.project-page pre { background: lightblue; }
 .project-page .project-name > *,
 .project-page.jumbotron h1, .project-page.jumbotron h2, .project-page.jumbotron h3,
 .project-page.jumbotron h4, .project-page.jumbotron h5, .project-page.jumbotron h6,
